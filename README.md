@@ -9,4 +9,5 @@ Call me Zizel, or Claire, or Noriko. I am a 1st year student studying at UPT (Ph
 
 # Projects I worked on (that isn't mine)
 [Closue's Gacha Machine](https://github.com/NagiEight/closure_gacha_machine)
+
 [WTGT](https://github.com/NagiEight/wtgt) (abandoned because our ideas refuses to work)
