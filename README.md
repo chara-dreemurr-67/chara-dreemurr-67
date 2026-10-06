@@ -6,8 +6,3 @@ Call me Zizel, or Claire, or Noriko. I am a 1st year student studying at UPT (Ph
 
 # Top Language
 ![Top Language](https://github-stats-extended-amber.vercel.app/api/top-langs?username=chara-dreemurr-67&layout=donut&langs_count=6&theme=chara3&v=2)
-
-# Projects I worked on (that isn't mine)
-[Closue's Gacha Machine](https://github.com/NagiEight/closure_gacha_machine)
-
-[WTGT](https://github.com/NagiEight/wtgt) (abandoned because our ideas refuses to work)
